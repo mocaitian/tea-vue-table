@@ -1,8 +1,8 @@
 {
   "name": "tea-vue-table",
-  "description": "A customizable and easy-to-use data table component made with Vue.js 3.x.",
+  "description": "A vue table component",
   "private": false,
-  "version": "1.5.48",
+  "version": "1.5.50",
   "types": "./types/main.d.ts",
   "license": "MIT",
   "files": [
@@ -11,10 +11,8 @@
   ],
   "keywords": [
     "vue3",
-    "data-table-component",
-    "data-table",
-    "vue3-component",
-    "vue-component"
+    "vue-table",
+    "tea-vue-table"
   ],
   "homepage": "https://github.com/mocaitian/tea-vue-table",
   "main": "./dist/vue3-easy-data-table.umd.js",
