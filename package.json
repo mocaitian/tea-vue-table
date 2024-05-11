@@ -1,6 +1,5 @@
 {
-  "name": "vue3-easy-data-table",
-  "author": "HC200ok",
+  "name": "tea-vue-table",
   "description": "A customizable and easy-to-use data table component made with Vue.js 3.x.",
   "private": false,
   "version": "1.5.48",
