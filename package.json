@@ -16,7 +16,7 @@
     "vue3-component",
     "vue-component"
   ],
-  "homepage": "https://github.com/HC200ok/vue3-easy-data-table",
+  "homepage": "https://github.com/mocaitian/tea-vue-table",
   "main": "./dist/vue3-easy-data-table.umd.js",
   "module": "./dist/vue3-easy-data-table.es.js",
   "type": "module",
