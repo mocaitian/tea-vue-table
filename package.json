@@ -2,7 +2,7 @@
   "name": "tea-vue-table",
   "description": "A vue table component",
   "private": false,
-  "version": "1.5.50",
+  "version": "1.5.51",
   "types": "./types/main.d.ts",
   "license": "MIT",
   "files": [
