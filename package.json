@@ -5,6 +5,10 @@
   "version": "1.5.51",
   "types": "./types/main.d.ts",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mocaitian/tea-vue-table.git"
+  },
   "files": [
     "dist",
     "types"
